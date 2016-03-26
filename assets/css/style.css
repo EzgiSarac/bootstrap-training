@@ -1,4 +1,22 @@
 .ba-sidebar{
 	background-color: #F5F5F5;
-
+	padding-top: 15px;
+  /*
+	bottom: 0;
+	top: 54px;
+	position: fixed;
+	display: block;
+*/
 }
+
+.ba-content{
+	padding-top: 15px;
+	padding-bottom: 15px;
+  /*	padding-left: 350px;  */
+}
+ 
+.ba-container-fluid{
+
+ 			padding-top: 15px;
+ 			padding-bottom: 15px;
+ }
